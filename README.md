@@ -1,4 +1,4 @@
-### Hello! I'm Yared an experienced developer highly skilled in architecture, agile processes, software design, and serverless (lambda).
+Hello! I'm Yared an experienced developer highly skilled in architecture, agile processes, software design, and serverless (lambda).
  - Go
  - Rails
  - CI/CD
