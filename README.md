@@ -2,7 +2,8 @@ Hello!
 
 I'm Yared an experienced developer highly skilled in software architecture, agile processes, software design, and serverless development (lambda).
  - Go
- - Rails
+ - Ruby on Rails
+ - Node.js
  - CI/CD
  - SDLC
 
